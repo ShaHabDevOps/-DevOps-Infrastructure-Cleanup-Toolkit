@@ -1,5 +1,7 @@
 =# DevOps Cleanup Verification Script
 
+# these are the actual commands i ran while i was cleaning 
+
 This repository contains a **bash script** to verify the cleanup status of a DevOps environment. It checks for container runtimes, Kubernetes tools, CI/CD tools, running processes, directory cleanup, and non-standard listening ports.
 
 ---
